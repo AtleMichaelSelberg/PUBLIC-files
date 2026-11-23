@@ -1,98 +1,154 @@
 [
   {
-    "id": "tendon-holds",
-    "name": "Tendon Holds",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M41 40L41 61 98 61 M48 62L48 84 M92 62L92 84 M36 88L135 88\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M74 25A9 9 0 1 1 56 25A9 9 0 1 1 74 25Z M65 34L65 38 62 58 99 58 101 85 113 85 M65 40L73 54 91 41 91 34\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M99 56C111 52 114 39 109 31 M108 40L109 31 117 34\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "dead-bugs",
-    "name": "Dead Bugs",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M20 79L143 79 M60 70L73 43 87 37 M89 72L100 65 131 70 140 66\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M49 69A9 9 0 1 1 31 69A9 9 0 1 1 49 69Z M49 73L89 73 102 48 122 48 126 40 M56 72L60 39 58 31\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M48 54L48 36 44 42 M48 36L52 42 M111 33L134 33 128 29 M134 33L128 37\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "nerve-floss",
-    "name": "Radial and Ulnar Nerve Floss",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M80 20L80 79\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M51 34A9 9 0 1 1 33 34A9 9 0 1 1 51 34Z M42 44L42 74 M42 48L25 56 16 68 12 64 M42 48L56 56 63 72 69 72 M124 34A9 9 0 1 1 106 34A9 9 0 1 1 124 34Z M115 44L115 74 M115 48L101 54 98 66 M115 48L135 48 134 31 123 27\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M12 76C16 80 23 77 24 72 M20 74L24 72 27 77 M137 25C145 24 146 34 144 37 M141 33L144 37 148 34\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "superman-snow-angels",
-    "name": "Superman Snow Angels",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M21 76L142 76 M49 59L66 35 90 28\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M41 61A9 9 0 1 1 23 61A9 9 0 1 1 41 61Z M41 65L53 66 91 70 128 69 136 73 M53 62L67 46 50 36 42 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M42 26C62 16 83 21 96 41 M88 39L96 41 95 33\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "hip-abduction",
-    "name": "Hip Abduction",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M20 80L143 80\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M50 65A9 9 0 1 1 32 65A9 9 0 1 1 50 65Z M50 70L85 72 129 74 134 67 M53 70L46 76 31 76 M85 72L120 45 123 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M139 70C145 59 144 50 136 41 M136 49L136 41 143 43\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
     "id": "nerd-neck",
     "name": "Nerd Neck",
+    "description": "",
+    "purpose": "",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M112 36A13 13 0 1 1 86 36A13 13 0 1 1 112 36Z M94 48L81 58\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M89 37A13 13 0 1 1 63 37A13 13 0 1 1 89 37Z M76 35L81 35 M88 35L93 40 89 41 M74 50L73 58 76 85 M59 66L73 58 91 65 97 85\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M108 17L67 17 73 12 M67 17L73 22\"/></g></svg></body></html>",
     "enabled": true
   },
   {
     "id": "head-twist",
     "name": "Head Twist",
+    "description": "",
+    "purpose": "",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M95 46A15 15 0 1 1 65 46A15 15 0 1 1 95 46Z M87 41L91 45 87 48 M80 61L80 69 M52 84L58 75 80 69 102 75 108 84\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M57 40C53 18 101 18 104 41 M99 36L104 41 109 35\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "nerve-floss",
+    "name": "Radial and Ulnar Nerve Floss",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M80 20L80 79\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M51 34A9 9 0 1 1 33 34A9 9 0 1 1 51 34Z M42 44L42 74 M42 48L25 56 16 68 12 64 M42 48L56 56 63 72 69 72 M124 34A9 9 0 1 1 106 34A9 9 0 1 1 124 34Z M115 44L115 74 M115 48L101 54 98 66 M115 48L135 48 134 31 123 27\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M12 76C16 80 23 77 24 72 M20 74L24 72 27 77 M137 25C145 24 146 34 144 37 M141 33L144 37 148 34\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "tendon-holds",
+    "name": "Tendon Holds",
+    "description": "Keith Barr style isometric hold. 4 × 30 seconds.",
+    "purpose": "Load and strengthen the tendon.",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M41 40L41 61 98 61 M48 62L48 84 M92 62L92 84 M36 88L135 88\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M74 25A9 9 0 1 1 56 25A9 9 0 1 1 74 25Z M65 34L65 38 62 58 99 58 101 85 113 85 M65 40L73 54 91 41 91 34\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M99 56C111 52 114 39 109 31 M108 40L109 31 117 34\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "wall-sit",
+    "name": "Wall Sit",
+    "description": "Back against the wall, knees bent about a third. Shallow and pain-free. Hold.",
+    "purpose": "Weight-bearing quad strength for the knee.",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M47 8L47 91 M24 91L141 91\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M67 18A9 9 0 1 1 49 18A9 9 0 1 1 67 18Z M54 27L53 50 69 69 69 90 81 90 M54 32L57 44 66 55\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M100 38L100 54 M95 49L100 54 105 49\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "supported-split-squat-hold",
+    "name": "Supported Split Squat Hold",
+    "description": "Lunge stance, both knees bent, back knee hovering. Hand on a table for support. Sink once and hold. No pumping. Both sides.",
+    "purpose": "Single-leg knee control.",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M20 90L143 90 M107 47L142 47 M113 48L113 90 M137 48L137 90\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M82 21A9 9 0 1 1 64 21A9 9 0 1 1 82 21Z M73 30L72 58 95 63 93 89 105 89 M72 58L63 80 41 82 38 89 M73 36L91 47 108 44\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M27 44L27 60 M22 55L27 60 32 55\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "slow-calf-raises",
+    "name": "Slow Calf Raises",
+    "description": "Rise onto the toes, then lower slowly.",
+    "purpose": "Calf strength to support the knee.",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M25 90L140 90 M112 14L112 90\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M81 18A9 9 0 1 1 63 18A9 9 0 1 1 81 18Z M72 27L72 57 73 73 70 83 82 89 M72 34L90 45 110 40\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M54 87L54 69 M49 74L54 69 59 74\"/></g></svg></body></html>",
     "enabled": true
   },
   {
     "id": "spanish-squat",
     "name": "Spanish Squat",
+    "description": "",
+    "purpose": "",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M129 42L129 89 140 89 M25 91L141 91\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M73 22A9 9 0 1 1 55 22A9 9 0 1 1 73 22Z M63 32L60 39 55 60 90 63 79 88 95 88 M60 39L76 47 94 45\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M87 60L129 58 M90 66L129 60 M125 55L133 55 133 63 125 63 125 55\"/></g></svg></body></html>",
+    "enabled": false
+  },
+  {
+    "id": "slow-step-downs",
+    "name": "10+10 Slow step-downs",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M14 91H146 M23 91V75H77V91\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M83 23A8 8 0 1 1 67 23A8 8 0 1 1 83 23Z M75 32L78 57 65 66 60 71 48 71 M78 57L94 69 112 85 125 85 M76 39L61 46 46 45 M76 39L93 42 105 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M137 56V77 M132 72L137 77 142 72\"/></g></svg></body></html>",
     "enabled": false
   },
   {
     "id": "deep-squat",
     "name": "Deep Squat",
+    "description": "",
+    "purpose": "",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M25 89L138 89 M58 75L79 62 73 87 90 87\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M76 34A9 9 0 1 1 58 34A9 9 0 1 1 76 34Z M65 43L60 50 53 74 89 61 83 86 103 86 M60 50L96 49 110 46\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M40 50L40 74 35 69 M40 74L45 69\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "diaphragmatic-breathing",
-    "name": "Diaphragmatic Breathing · 5 min",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M18 83L144 83\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M41 69A9 9 0 1 1 23 69A9 9 0 1 1 41 69Z M41 74L54 76 93 76 112 56 127 79 139 79 M54 74L63 65 77 67 M63 65L56 67\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M70 57C73 51 82 51 88 56 M72 46C76 41 84 41 91 46\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "happy-baby",
-    "name": "Happy Baby · 2 min",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M19 84L143 84 M88 77L69 57 70 34 77 31 M53 76L55 49 71 32\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M39 70A9 9 0 1 1 21 70A9 9 0 1 1 39 70Z M39 75L56 78 88 78 M88 77L99 54 98 27 109 24 M57 76L74 51 104 25\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M107 25A3 3 0 1 1 101 25A3 3 0 1 1 107 25Z\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "hip-stretch-90-90",
-    "name": "90/90 Hip Stretch",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M21 87L141 87\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M84 23A9 9 0 1 1 66 23A9 9 0 1 1 84 23Z M75 33L75 65 100 72 99 84 120 84 M75 65L49 70 50 81 33 81 M75 40L60 52 52 70 M75 40L96 51 105 66\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M106 74L106 79 112 79 M43 72L43 76 38 76\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "wrist-sticks",
-    "name": "Wrist Sticks",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M24 77H136\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M35 68L61 64 76 56 M125 68L99 64 84 56 M76 56L81 52 87 55 84 60 77 61Z M84 56L89 52 95 55 92 60 86 61Z\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M57 44L110 44 M76 54L76 44 M92 54L92 44\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "hamstring-bridges",
-    "name": "Hamstring bridges",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M12 84H148\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M33 72A8 8 0 1 1 17 72A8 8 0 1 1 33 72Z M34 77L48 77 77 51 103 53 115 79 133 79 M46 76L63 79 77 79\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M77 77V61 M72 66L77 61 82 66\"/></g></svg></body></html>",
-    "enabled": true
-  },
-  {
-    "id": "slow-step-downs",
-    "name": "10+10 Slow step-downs",
-    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M14 91H146 M23 91V75H77V91\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M83 23A8 8 0 1 1 67 23A8 8 0 1 1 83 23Z M75 32L78 57 65 66 60 71 48 71 M78 57L94 69 112 85 125 85 M76 39L61 46 46 45 M76 39L93 42 105 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M137 56V77 M132 72L137 77 142 72\"/></g></svg></body></html>",
     "enabled": true
   },
   {
     "id": "reverse-nordic-curls",
     "name": "Reverse Nordic Curls",
+    "description": "",
+    "purpose": "",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M19 87H142\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M66 28A8 8 0 1 1 50 28A8 8 0 1 1 66 28Z M63 36L75 57 94 78 69 83 59 83 M68 43L82 49 88 43 M69 45L80 54 88 49\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M93 36Q80 19 67 17 M72 14L67 17 71 22\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "superman-snow-angels",
+    "name": "Superman Snow Angels",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M21 76L142 76 M49 59L66 35 90 28\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M41 61A9 9 0 1 1 23 61A9 9 0 1 1 41 61Z M41 65L53 66 91 70 128 69 136 73 M53 62L67 46 50 36 42 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M42 26C62 16 83 21 96 41 M88 39L96 41 95 33\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "hip-abduction",
+    "name": "Hip Abduction",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M20 80L143 80\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M50 65A9 9 0 1 1 32 65A9 9 0 1 1 50 65Z M50 70L85 72 129 74 134 67 M53 70L46 76 31 76 M85 72L120 45 123 36\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M139 70C145 59 144 50 136 41 M136 49L136 41 143 43\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "dead-bugs",
+    "name": "Dead Bugs",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M20 79L143 79 M60 70L73 43 87 37 M89 72L100 65 131 70 140 66\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M49 69A9 9 0 1 1 31 69A9 9 0 1 1 49 69Z M49 73L89 73 102 48 122 48 126 40 M56 72L60 39 58 31\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M48 54L48 36 44 42 M48 36L52 42 M111 33L134 33 128 29 M134 33L128 37\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "hamstring-bridges",
+    "name": "Hamstring bridges",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M12 84H148\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M33 72A8 8 0 1 1 17 72A8 8 0 1 1 33 72Z M34 77L48 77 77 51 103 53 115 79 133 79 M46 76L63 79 77 79\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M77 77V61 M72 66L77 61 82 66\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "hip-stretch-90-90",
+    "name": "90/90 Hip Stretch",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M21 87L141 87\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M84 23A9 9 0 1 1 66 23A9 9 0 1 1 84 23Z M75 33L75 65 100 72 99 84 120 84 M75 65L49 70 50 81 33 81 M75 40L60 52 52 70 M75 40L96 51 105 66\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M106 74L106 79 112 79 M43 72L43 76 38 76\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "happy-baby",
+    "name": "Happy Baby · 2 min",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M19 84L143 84 M88 77L69 57 70 34 77 31 M53 76L55 49 71 32\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M39 70A9 9 0 1 1 21 70A9 9 0 1 1 39 70Z M39 75L56 78 88 78 M88 77L99 54 98 27 109 24 M57 76L74 51 104 25\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M107 25A3 3 0 1 1 101 25A3 3 0 1 1 107 25Z\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "diaphragmatic-breathing",
+    "name": "Diaphragmatic Breathing · 5 min",
+    "description": "",
+    "purpose": "",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M18 83L144 83\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M41 69A9 9 0 1 1 23 69A9 9 0 1 1 41 69Z M41 74L54 76 93 76 112 56 127 79 139 79 M54 74L63 65 77 67 M63 65L56 67\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M70 57C73 51 82 51 88 56 M72 46C76 41 84 41 91 46\"/></g></svg></body></html>",
+    "enabled": true
+  },
+  {
+    "id": "wrist-sticks",
+    "name": "Wrist Sticks",
+    "description": "Isometric pronation and supination holds. 4 × 30 seconds.",
+    "purpose": "Strengthen the elbow tendons.",
+    "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M24 77H136\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M35 68L61 64 76 56 M125 68L99 64 84 56 M76 56L81 52 87 55 84 60 77 61Z M84 56L89 52 95 55 92 60 86 61Z\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M57 44L110 44 M76 54L76 44 M92 54L92 44\"/></g></svg></body></html>",
     "enabled": true
   }
 ]
