@@ -33,5 +33,15 @@
     "url": "https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w",
     "name": "The Slow Mo Guys",
     "maxVideos": 5
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCy6kyFxaMqGtpE3pQTflK8A",
+    "name": "Real Time with Bill Maher",
+    "maxVideos": 5
+  },
+  {
+    "url": "https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ",
+    "name": "LastWeekTonight",
+    "maxVideos": 2
   }
 ]
