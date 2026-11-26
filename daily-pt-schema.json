@@ -29,7 +29,7 @@
     "description": "Isometric pronation and supination holds. 4 × 30 seconds.",
     "purpose": "Strengthen the elbow tendons.",
     "poseHtml": "<!doctype html><html><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><meta http-equiv=\"Content-Security-Policy\" content=\"default-src 'none'; style-src 'unsafe-inline'\"/><style>html,body{margin:0;width:100%;height:100%;overflow:hidden}svg{display:block;width:100%;height:100%}</style></head><body><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 160 100\" preserveAspectRatio=\"xMidYMid meet\"><rect width=\"160\" height=\"100\" rx=\"9\" fill=\"#223732\"/><g fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path stroke=\"#81978e\" stroke-width=\"2.5\" d=\"M24 77H136\"/><path stroke=\"#f3ebdd\" stroke-width=\"3.5\" d=\"M35 68L61 64 76 56 M125 68L99 64 84 56 M76 56L81 52 87 55 84 60 77 61Z M84 56L89 52 95 55 92 60 86 61Z\"/><path stroke=\"#8fe0b3\" stroke-width=\"2.3\" d=\"M57 44L110 44 M76 54L76 44 M92 54L92 44\"/></g></svg></body></html>",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": "tendon-holds",
